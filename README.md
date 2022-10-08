@@ -24,3 +24,5 @@ Dataset consists of 12 attributes
 - category
 
 For the Turkish report, you can visit:
+
+![e958f617222bcc804e6cae0cd29184bb](https://user-images.githubusercontent.com/101044556/194700941-2525ad9f-3b5d-4648-9376-4a89f0d42a43.gif)
