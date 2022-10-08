@@ -23,6 +23,6 @@ Dataset consists of 12 attributes
 - modinter_ratio
 - category
 
-For the Turkish report, you can visit:
+For the Turkish report, you can visit: https://medium.com/@seherkutluu/avila-bible-veri-seti-i%CC%87nceleme-s%C4%B1n%C4%B1fland%C4%B1rma-ve-tahmin-e223caa150be
 
 ![image](https://user-images.githubusercontent.com/101044556/194701040-d9796810-626e-4ebf-abea-05bd27bf7123.png)
