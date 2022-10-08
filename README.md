@@ -1,4 +1,4 @@
-# Avila Bible datasets Classification
+# Avila Bible Datasets Classification
 In this project I used classification algorithms for analysis of avila dataset.
 * Logistic Regression
 * Gradient Boosting
